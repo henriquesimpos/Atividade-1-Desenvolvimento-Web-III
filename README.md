@@ -1,7 +1,7 @@
 # Tokuinfo — Informações sobre Tokusatsus
 
 **Aluno:** Henrique Simões Izabel  
-**Disciplina:** Desenvolvimento Web III — ISW-030  
+**Disciplina:** Desenvolvimento Web III 
 **Atividade:** 01 — Mini Portal Responsivo
 
 Portal de informações sobre tokusatsus, com apresentação de seis séries, galeria de imagens e detalhes dos heróis. Projeto acadêmico estático, construído com HTML5, Bootstrap 5.3.8 via CDN e um arquivo CSS para ajustes visuais, sem template pronto.
