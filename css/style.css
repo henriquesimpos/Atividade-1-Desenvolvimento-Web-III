@@ -93,6 +93,16 @@ section {
   background: #7144a8;
 }
 
+.hero-kanji {
+  position: absolute;
+  top: 25px;
+  right: 8px;
+  writing-mode: vertical-rl;
+  font-size: 5rem;
+  font-weight: bold;
+  opacity: .1;
+}
+
 .hero-label {
   position: absolute;
   bottom: 22px;
@@ -157,10 +167,6 @@ section {
   font-weight: bold;
   color: #ffffff24;
   letter-spacing: -.07em;
-}
-
-.art-4 .art-number {
-  color: #11131533;
 }
 
 .card-title {
@@ -243,5 +249,8 @@ section {
   }
   .slide-art {
     height: 280px;
+  }
+  .hero-kanji {
+    font-size: 3rem;
   }
 }
